@@ -2,7 +2,7 @@ import React from 'react';
 import for_logo from './assets/image/dope.jpg'
 import './App.css';
  import useSound from 'use-sound';
-import onSound from './assets/audio/Dope.mp3';
+import onSound from './assets/audio/DOPE.mp3';
 import { Link } from 'react-router-dom';
 const Home_11 = () => {
 
