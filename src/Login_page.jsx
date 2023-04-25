@@ -37,7 +37,7 @@ const Log_in = () =>
                     <div className='col-sm-2 '></div>
                     <div className='col-sm-4'>
                       <i className="bi bi-spotify icon_set"></i>
-                      <p>Spotify</p>
+                      <p className='h1'>Spotify</p>
                       <i><h2 className='set_text_color'>Enjoy the Music how You Want With 
                       Unlimited Skips and <br/>
                        On-demand Listening</h2></i>
