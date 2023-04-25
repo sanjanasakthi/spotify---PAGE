@@ -54,7 +54,7 @@ const Sign_up = () =>{
                 <div className='col-sm-2 '></div>
                   <div className='col-sm-4 '>
                   <i className="bi bi-spotify icon_set"></i>
-                  <p>Spotify</p>
+                  <p className='h1'>Spotify</p>
                  <i> 
                   <h2 className='set_text_color'>
                   Music Wherever, Whenever <br/>
